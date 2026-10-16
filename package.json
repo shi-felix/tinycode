@@ -50,10 +50,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjr666666/tinycode.git"
+    "url": "git+https://github.com/shi-felix/tinycode.git"
   },
   "bugs": {
-    "url": "https://github.com/sjr666666/tinycode/issues"
+    "url": "https://github.com/shi-felix/tinycode/issues"
   },
-  "homepage": "https://github.com/sjr666666/tinycode#readme"
+  "homepage": "https://github.com/shi-felix/tinycode#readme"
 }
